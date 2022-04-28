@@ -7,45 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Sanchit Samuel
+    tagline: Backend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: sanchit.samuel@live.com
+    phone: +91 9650649764
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    website: sanchitsamuel.github.io #do not add http://
+    linkedin: sanchit-samuel
+    github: sanchitsamuel 
+    telegram: compilerx64 # add your nickname without '@' sign
+    gitlab: sanchitsamuel
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@sanchitsamuel'
+    stack-overflow: 3758456/compiler # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://dl.dropbox.com/s/ku9ynpwt3fi2mp0/Sanchit%20Samuel%20v7.5.pdf?dl=0
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Trekking
         link:
 
-      - item: Snowboarding
+      - item: Traveling
         link:
 
-      - item: Cooking
+      - item: Riding
         link:
 
 career-profile:
