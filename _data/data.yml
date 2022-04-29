@@ -48,9 +48,9 @@ career-profile:
     title: Career Profile
     summary: |
       Hi, Welcome to my profile. I am a backend engineer with experience
-      of over 5 years in the industry. I have been working with Ruby on Rails
+      of over 5 years in the industry. I have been working with <b>Ruby on Rails</b>
       for over 3 years now. I aspire to write clean, maintainable and testable code.
-      In the past, I have worked with technologies like, Rspec, Resque, Kafka, etc.
+      In the past, I have worked with technologies like, <b>Rspec, Resque, Kafka</b> etc.
       Apart from working with Rails, I also enjoy making small casual games.
 education:
     - degree: B.E Computer Science
@@ -68,20 +68,38 @@ experiences:
       time: 2021 - Present
       company: Nayan Technology, New Delhi
       details: |
+        - Building the ROR backend
+        - Custom Dashboard to tweak the working of the system
+        - AI data validation and retraining pipelines
+        - Tests using Rspec with extensive coverage
+        - Background jobs using Resque to offload longer running task
+        - APIs for Android
+        - Load balancing across multiple AI models
         
     - role: Software Engineer
       time: 2019 - 2021
       company: NeetPrep.com, New Delhi
       details: |
+        - Building the Ed tech platform using Node and RoR
+        - Improving user interface and experience
+        - Improving load times
+        - Optimizing video streaming for course videos
+        - APIs for Android
 
     - role: Game Developer
       time: 2017 - 2019
       company: Startup, New Delhi
       details: |
+        Started my own venture, a small game studio, building hyper casual games for
+        Android.
+          - Worked on Unity Game engine
+          - Worked on Godot
+          - Platformer games
+          - Game manager and event systems
 
-    - role: Game Developer
-      time: 2017 - 2019
-      company: Startup, New Delhi
+    - role: Android Developer
+      time: 2016 - 2017
+      company: Mutiny Labs, New Delhi
       details: |
 
 projects:
@@ -95,6 +113,7 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
         details: |
+          - Building the ROR backend
 
       - title: DevStudio
         link: "#"
@@ -157,4 +176,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by Xiaoying Riley
