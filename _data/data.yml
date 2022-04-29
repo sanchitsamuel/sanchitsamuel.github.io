@@ -105,31 +105,58 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are some of the projects that I have worked on in the past.
+      These include both projects I have worked on professionally and as pet projects.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: C3 v2 Backed
+        link: "#"
+        tagline: " Core Backend for Nayan Tech"
         details: |
-          - Building the ROR backend
+          - Using Rails 6 and Ruby 3.0.1
+          - Upgraded from Ruby 2.5.3
+          - Built support for background services, using Resque
+          - Built tests with high code coverage
+          - Implemented Kafka
+          - APIs for Android
 
-      - title: DevStudio
+      - title: Learner.in
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "K12 learning platform for good education technology"
+        details: |
+          - Initiated the project from scratch
+          - Built internal dashboard using Active Admin
+          - APIs for react frontend
+          - CI/CD pipelines for easy deployments
 
-      - title: Tempo
+      - title: Neetprep.com
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: " Ed Tech platform for good education technology"
+        details: |
+          - Using both Node and Rails backend
+          - Built the internal dashboard using Active Admin
+          - Wrote multiple Python scripts to import data from sheets and CSV
+          - APIs for Android
+          - Design and Architect multiple features
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Morphamic Pandemic
+        link: "https://github.com/sanchitsamuel/morphemic-pandemic"
+        tagline: "Pet project, a 2D game built in Godot"
+        details: |
+          - Small 2D game, build on Godot game engine
+          - Custom Event system
+          - 2D physics
+          - Parallax Background
+          - Particle effects
 
-      - title: Delta
+      - title: Custom Linux
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Built a Linux Operating system from scratch"
+        details: |
+          - Using Linux from scratch, documentation
+          - Compiled GCC from scratch
+          - Using systemd
+          - Added GUI support
+          - Added CLI Installer support
 
 # publications:
 #     title: Publications
@@ -157,23 +184,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Ruby on Rails
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Linux
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: DevOps
+        level: 70%
+
+      - name: GIT
+        level: 80%
+
+      - name: PostgreSQL
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Xiaoying Riley
